@@ -1,4 +1,4 @@
-int 8_t answer;
+int8_t answer;
 int onModulePin= 2;
 char aux_string[30];
 int flag = 0;
